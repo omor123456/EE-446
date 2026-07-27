@@ -1,0 +1,20 @@
+# Speech Commands v0.02 dataset (~5.5 GB extracted + 2.3 GB tarball).
+# Public dataset, re-download instead of committing:
+# http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+Lab_5/dataset/
+
+# Vendored TensorFlow v2.14.1 source tree (274 MB / 30k files) and its archive.
+# Clone from https://github.com/tensorflow/tensorflow at tag v2.14.1 instead.
+Lab_5/tensorflow/
+Lab_5/tensorflow-v2.14.1.zip
+
+# macOS archive cruft
+__MACOSX/
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
