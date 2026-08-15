@@ -1,3 +1,5 @@
+#include <TinyMLShield.h>
+
 #include "TensorFlowLite.h"
 #include "autoencoder_model.cc"
 
